@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='consolidador',
-      version='0.1.0',
+      version='0.1.1',
       description='Consolidador de descargas',
       url='https://github.com/carlosveliz/test-isv.git',
       author='Carlos Veliz',

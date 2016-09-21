@@ -1,4 +1,4 @@
 from .utils import hello
 
 def bye():
-	return 'Bye'
+	return 'Bye bye'
